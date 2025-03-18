@@ -78,31 +78,7 @@
 /upgrade
 /upgrade_errors.txt
 
-/media/libraries/ckeditor/*
-/media/bundles/*
-/media/dashboards/*
-!/media/dashboards/*.json
-/media/files/*
-!/media/files/.htaccess
-/media/assets/*
-/media/images/*
-!/media/images/flags
-!/media/images/mejs
-!/media/images/apple-touch-icon.png
-!/media/images/avatar.png
-!/media/images/placeholder*
-!/media/images/favicon.ico
-!/media/images/mautic_logo*
-!/media/images/.htaccess
-/media/css/app.css
-/media/css/libraries.css
-/media/css/mediaelementplayer.min.css
-/media/css/modal.min.css
-/media/js/app.js
-/media/js/libraries.js
-/media/js/mautic-form.js
-/media/js/froogaloop.min.js
-/media/js/jquery.min.js
+
 
 /plugins/*
 !/plugins/GrapesJsBuilderBundle
