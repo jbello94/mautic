@@ -66,14 +66,9 @@
 !/bin/.htaccess
 !/bin/console
 
-/assets/ckeditor/build/*
-
 /bundles
 /node_modules
-/build/coverage
-/build/packaging
-/build/packages/*
-!/build/packages/.placeholder
+
 /mockup
 /upgrade
 /upgrade_errors.txt
